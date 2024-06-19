@@ -291,10 +291,3 @@ Below are key configurations that you may want to customize:
   **Additional Hibernate Configuration**
       
       spring.jpa.show-sql=true
-
-
-## Contact
-
-If you have any questions, concerns, or suggestions, feel free to contact.
-
-- **Email:** 
